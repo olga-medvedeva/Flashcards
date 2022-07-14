@@ -1,6 +1,6 @@
 # Frontend project using HTML + CSS (animation)
 
-Flashcards project created as part of the CSS course.
+Flashcards project was created as part of the CSS course.
 
 Website - https://olga-medvedeva-flashcards.netlify.app/
 
