@@ -1,6 +1,6 @@
-# Frontend project using HTML + CSS
+# Frontend project using HTML + CSS (animation)
 
-Flashcards can be used for education.
+Flashcards project was used for education.
 
 Website - https://olga-medvedeva-flashcards.netlify.app/
 
